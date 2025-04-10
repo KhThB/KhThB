@@ -3,7 +3,6 @@
 
 
 ![KhThB's Stats](https://github-readme-stats.vercel.app/api?username=KhThB&theme=onedark&show_icons=true&hide_border=true&count_private=true)
-![KhThB's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhThB&theme=onedark&hide_border=true)
 ![KhThB's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhThB&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **KhThB/KhThB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
